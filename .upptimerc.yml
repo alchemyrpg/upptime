@@ -5,7 +5,9 @@ sites:
   - name: App
     url: https://app.alchemyrpg.com
   - name: Marketing Site
-    url: https://alchemyrpg.com  
+    url: https://alchemyrpg.com
+  - name: Gameplay API
+    url: $SERVICE_GRAPHQL
 
 status-website:
   cname: status.alchemyrpg.com
