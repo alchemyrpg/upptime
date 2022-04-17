@@ -20,6 +20,7 @@ sites:
 status-website:
   cname: status.alchemyrpg.com
   logoUrl: https://app.alchemyrpg.com/favicon-120.png
+  favicon: https://app.alchemyrpg.com/favicon-120.png
   theme: night
   name: Alchemy Status
   navbar:
