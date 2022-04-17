@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 595,
-    "timeWeek": 595,
-    "timeMonth": 595,
-    "timeYear": 595,
+    "time": 536,
+    "timeDay": 536,
+    "timeWeek": 536,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Gameplay API",
-    "url": "$SERVICE_GRAPHQL",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "gameplay-api",
-    "status": "down",
-    "uptime": "8.90%",
-    "uptimeDay": "8.90%",
-    "uptimeWeek": "8.90%",
-    "uptimeMonth": "8.90%",
-    "uptimeYear": "8.90%",
-    "time": 125,
-    "timeDay": 125,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
-    "dailyMinutesDown": {
-      "2022-04-17": 0
-    }
   }
 ]
