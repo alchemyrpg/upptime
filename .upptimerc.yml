@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: Alchemy RPG - App
     url: https://app.alchemyrpg.com
+  - name: Alchemy RPG - Marketing Site
+    url: https://alchemyrpg.com  
 
 status-website:
   cname: status.alchemyrpg.com
