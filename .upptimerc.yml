@@ -35,7 +35,7 @@ assignees:
 # https://crontab.guru 
 workflowSchedule:
   graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
+  responseTime: "*/5 * * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
