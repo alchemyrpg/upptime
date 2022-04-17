@@ -8,6 +8,14 @@ sites:
     url: https://alchemyrpg.com
   - name: Gameplay API
     url: $SERVICE_GRAPHQL
+  - name: Universe API
+    url: $SERVICE_UNIVERSE
+  - name: Marketplace API
+    url: $SERVICE_MARKETPLACE
+  - name: Notes API
+    url: $SERVICE_NOTES
+  - name: Analytics API
+    url: $SERVICE_ANALYTICS
 
 status-website:
   cname: status.alchemyrpg.com
