@@ -9,9 +9,8 @@ sites:
 
 status-website:
   cname: status.alchemyrpg.com
-  baseUrl: /upptime
   logoUrl: https://app.alchemyrpg.com/favicon-120.png
-  theme: dark
+  theme: night
   name: Alchemy Status
   navbar:
     - title: Status
