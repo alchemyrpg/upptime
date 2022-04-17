@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gameplay-api",
     "status": "up",
-    "uptime": "79.10%",
-    "uptimeDay": "79.10%",
-    "uptimeWeek": "79.10%",
-    "uptimeMonth": "79.10%",
-    "uptimeYear": "79.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 161,
     "timeDay": 161,
     "timeWeek": 161,
     "timeMonth": 161,
     "timeYear": 161,
-    "dailyMinutesDown": {
-      "2022-04-17": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Universe API",
