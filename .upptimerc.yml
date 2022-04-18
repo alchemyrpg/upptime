@@ -8,14 +8,19 @@ sites:
     url: https://alchemyrpg.com
   - name: Gameplay API
     url: $SERVICE_GRAPHQL
+    showAverageResponseTime: false
   - name: Universe API
     url: $SERVICE_UNIVERSE
+    showAverageResponseTime: false
   - name: Marketplace API
     url: $SERVICE_MARKETPLACE
+    showAverageResponseTime: false
   - name: Notes API
     url: $SERVICE_NOTES
+    showAverageResponseTime: false
   - name: Analytics API
     url: $SERVICE_ANALYTICS
+    showAverageResponseTime: false
 
 status-website:
   cname: status.alchemyrpg.com
