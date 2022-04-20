@@ -4,6 +4,7 @@ repo: upptime
 sites:
   - name: App
     url: https://app.alchemyrpg.com
+    icon: https://app.alchemyrpg.com/favicon-120.png
   - name: Marketing Site
     url: https://alchemyrpg.com
   - name: Gameplay API
@@ -25,7 +26,7 @@ sites:
 status-website:
   cname: status.alchemyrpg.com
   logoUrl: https://app.alchemyrpg.com/favicon-120.png
-  icon: https://app.alchemyrpg.com/favicon-120.png
+  favicon: https://app.alchemyrpg.com/favicon-120.png
   theme: night
   name: Alchemy Status
   navbar:
