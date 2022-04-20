@@ -7,21 +7,22 @@ sites:
     icon: https://app.alchemyrpg.com/favicon-120.png
   - name: Marketing Site
     url: https://alchemyrpg.com
+    icon: https://app.alchemyrpg.com/favicon-120.png
   - name: Gameplay API
     url: $SERVICE_GRAPHQL
-    showAverageResponseTime: false
+    icon: https://app.alchemyrpg.com/favicon-120.png    
   - name: Universe API
     url: $SERVICE_UNIVERSE
-    showAverageResponseTime: false
+    icon: https://app.alchemyrpg.com/favicon-120.png    
   - name: Marketplace API
     url: $SERVICE_MARKETPLACE
-    showAverageResponseTime: false
+    icon: https://app.alchemyrpg.com/favicon-120.png    
   - name: Notes API
     url: $SERVICE_NOTES
-    showAverageResponseTime: false
+    icon: https://app.alchemyrpg.com/favicon-120.png    
   - name: Analytics API
     url: $SERVICE_ANALYTICS
-    showAverageResponseTime: false
+    icon: https://app.alchemyrpg.com/favicon-120.png
 
 status-website:
   cname: status.alchemyrpg.com
