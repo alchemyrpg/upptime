@@ -5,9 +5,9 @@ sites:
   - name: App
     url: https://app.alchemyrpg.com
     icon: https://app.alchemyrpg.com/favicon-120.png
-  - name: Marketing Site
-    url: https://alchemyrpg.com
-    icon: https://app.alchemyrpg.com/favicon-120.png
+  - name: Journal API
+    url: $SERVICE_JOURNAL
+    icon: https://app.alchemyrpg.com/favicon-120.png    
   - name: Gameplay API
     url: $SERVICE_GRAPHQL
     icon: https://app.alchemyrpg.com/favicon-120.png    
@@ -22,6 +22,9 @@ sites:
     icon: https://app.alchemyrpg.com/favicon-120.png    
   - name: Analytics API
     url: $SERVICE_ANALYTICS
+    icon: https://app.alchemyrpg.com/favicon-120.png
+  - name: Marketing Site
+    url: https://alchemyrpg.com
     icon: https://app.alchemyrpg.com/favicon-120.png
 
 status-website:
