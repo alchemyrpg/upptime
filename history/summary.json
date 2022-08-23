@@ -130,17 +130,19 @@
     "url": "https://alchemyrpg.com",
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "marketing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 319,
-    "timeWeek": 365,
-    "timeMonth": 347,
+    "timeDay": 278,
+    "timeWeek": 349,
+    "timeMonth": 344,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   }
 ]
