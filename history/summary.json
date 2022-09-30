@@ -22,18 +22,20 @@
     "url": "$SERVICE_JOURNAL",
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "journal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 332,
-    "timeWeek": 221,
+    "timeDay": 269,
+    "timeWeek": 219,
     "timeMonth": 206,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-30": 0
+    }
   },
   {
     "name": "Gameplay API",
