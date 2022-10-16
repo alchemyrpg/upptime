@@ -26,6 +26,9 @@ sites:
   - name: Marketing Site
     url: https://alchemyrpg.com
     icon: https://app.alchemyrpg.com/favicon-120.png
+  - name: Developer Documentation
+    url: https://alchemyrpg.github.io/slate
+    icon: https://app.alchemyrpg.com/favicon-120.png
 
 status-website:
   cname: status.alchemyrpg.com
