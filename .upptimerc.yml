@@ -8,22 +8,25 @@ sites:
    - name: RTC API
      url: https://journal2.alchemyrpg.com/health
      icon: https://app.alchemyrpg.com/favicon-120.png
-   - name: Journal API
+   - name: API
+     url: https://api2.alchemyrpg.com/health
+     icon: https://app.alchemyrpg.com/favicon-120.png
+   - name: LEGACY Journal API
      url: $SERVICE_JOURNAL
      icon: https://app.alchemyrpg.com/favicon-120.png    
-   - name: Gameplay API
+   - name: LEGACY Gameplay API
      url: $SERVICE_GRAPHQL
      icon: https://app.alchemyrpg.com/favicon-120.png    
-   - name: Universe API
+   - name: LEGACY Universe API
      url: $SERVICE_UNIVERSE
      icon: https://app.alchemyrpg.com/favicon-120.png    
-   - name: Marketplace API
+   - name: LEGACY Marketplace API
      url: $SERVICE_MARKETPLACE
      icon: https://app.alchemyrpg.com/favicon-120.png    
-   - name: Notes API
+   - name: LEGACY Notes API
      url: $SERVICE_NOTES
      icon: https://app.alchemyrpg.com/favicon-120.png    
-   - name: Analytics API
+   - name: LEGACY Analytics API
      url: $SERVICE_ANALYTICS
      icon: https://app.alchemyrpg.com/favicon-120.png
    - name: Marketing Site
