@@ -23,19 +23,17 @@
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "rtc-api",
     "status": "up",
-    "uptime": "89.87%",
-    "uptimeDay": "89.87%",
-    "uptimeWeek": "89.87%",
-    "uptimeMonth": "89.87%",
-    "uptimeYear": "89.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 261,
     "timeDay": 261,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {
-      "2022-10-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Journal API",
