@@ -5,23 +5,11 @@ sites:
   - name: App
     url: https://app.alchemyrpg.com
     icon: https://app.alchemyrpg.com/favicon-120.png
-  - name: Journal API
-    url: $SERVICE_JOURNAL
-    icon: https://app.alchemyrpg.com/favicon-120.png    
-  - name: Gameplay API
+  - name: API
     url: $SERVICE_GRAPHQL
     icon: https://app.alchemyrpg.com/favicon-120.png    
-  - name: Universe API
-    url: $SERVICE_UNIVERSE
-    icon: https://app.alchemyrpg.com/favicon-120.png    
-  - name: Marketplace API
-    url: $SERVICE_MARKETPLACE
-    icon: https://app.alchemyrpg.com/favicon-120.png    
-  - name: Notes API
-    url: $SERVICE_NOTES
-    icon: https://app.alchemyrpg.com/favicon-120.png    
-  - name: Analytics API
-    url: $SERVICE_ANALYTICS
+  - name: RTC API
+    url: $SERVICE_JOURNAL
     icon: https://app.alchemyrpg.com/favicon-120.png
   - name: Marketing Site
     url: https://alchemyrpg.com
