@@ -1,7 +1,7 @@
 url: $SERVICE_GRAPHQL
 status: down
 code: 403
-responseTime: 159
-lastUpdated: 2022-10-19T07:47:49.199Z
+responseTime: 293
+lastUpdated: 2022-10-19T07:49:47.040Z
 startTime: Wed Oct 19 2022 07:47:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
