@@ -23,18 +23,18 @@
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "api",
     "status": "down",
-    "uptime": "3.66%",
-    "uptimeDay": "3.66%",
-    "uptimeWeek": "3.66%",
-    "uptimeMonth": "3.66%",
-    "uptimeYear": "3.66%",
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
     "time": 214,
     "timeDay": 214,
     "timeWeek": 214,
     "timeMonth": 214,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2022-10-19": 0
+      "2022-10-19": 2
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$SERVICE_JOURNAL",
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "rtc-api",
-    "status": "down",
-    "uptime": "7.22%",
-    "uptimeDay": "7.22%",
-    "uptimeWeek": "7.22%",
-    "uptimeMonth": "7.22%",
-    "uptimeYear": "7.22%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "status": "up",
+    "uptime": "7.26%",
+    "uptimeDay": "7.26%",
+    "uptimeWeek": "7.26%",
+    "uptimeMonth": "7.26%",
+    "uptimeYear": "7.26%",
+    "time": 292,
+    "timeDay": 292,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {
-      "2022-10-19": 0
+      "2022-10-19": 2
     }
   },
   {
