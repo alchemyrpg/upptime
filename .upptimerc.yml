@@ -6,7 +6,7 @@ sites:
      url: https://app.alchemyrpg.com
      icon: https://app.alchemyrpg.com/favicon-120.png
    - name: RTC API
-     url: https://journal2.alchemyprpg.com/health
+     url: https://journal2.alchemyrpg.com/health
      icon: https://app.alchemyrpg.com/favicon-120.png
    - name: Journal API
      url: $SERVICE_JOURNAL
