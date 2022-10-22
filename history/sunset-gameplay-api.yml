@@ -1,7 +1,7 @@
 url: $SERVICE_GRAPHQL
 status: up
 code: 200
-responseTime: 170
-lastUpdated: 2022-10-21T23:13:33.802Z
+responseTime: 300
+lastUpdated: 2022-10-22T19:31:27.618Z
 startTime: Wed Oct 19 2022 21:32:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
