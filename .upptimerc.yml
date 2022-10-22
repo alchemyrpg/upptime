@@ -14,21 +14,6 @@ sites:
    - name: Marketing Site
      url: https://alchemyrpg.com
      icon: https://app.alchemyrpg.com/favicon-120.png
-   - name: SUNSET Gameplay API
-     url: $SERVICE_GRAPHQL
-     icon: https://app.alchemyrpg.com/favicon-120.png    
-   - name: SUNSET Universe API
-     url: $SERVICE_UNIVERSE
-     icon: https://app.alchemyrpg.com/favicon-120.png    
-   - name: SUNSET Marketplace API
-     url: $SERVICE_MARKETPLACE
-     icon: https://app.alchemyrpg.com/favicon-120.png    
-   - name: SUNSET Notes API
-     url: $SERVICE_NOTES
-     icon: https://app.alchemyrpg.com/favicon-120.png    
-   - name: SUNSET Analytics API
-     url: $SERVICE_ANALYTICS
-     icon: https://app.alchemyrpg.com/favicon-120.png
 
 status-website:
   cname: status.alchemyrpg.com
