@@ -14,9 +14,6 @@ sites:
    - name: Marketing Site
      url: https://alchemyrpg.com
      icon: https://app.alchemyrpg.com/favicon-120.png
-   - name: SUNSET Journal API
-     url: $SERVICE_JOURNAL
-     icon: https://app.alchemyrpg.com/favicon-120.png    
    - name: SUNSET Gameplay API
      url: $SERVICE_GRAPHQL
      icon: https://app.alchemyrpg.com/favicon-120.png    
