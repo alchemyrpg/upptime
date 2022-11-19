@@ -13,7 +13,7 @@
     "time": 277,
     "timeDay": 306,
     "timeWeek": 229,
-    "timeMonth": 242,
+    "timeMonth": 244,
     "timeYear": 277,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://api2.alchemyrpg.com/health",
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 242,
-    "timeWeek": 175,
-    "timeMonth": 215,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "time": 210,
+    "timeDay": 161,
+    "timeWeek": 163,
+    "timeMonth": 210,
+    "timeYear": 210,
+    "dailyMinutesDown": {
+      "2022-11-19": 0
+    }
   },
   {
     "name": "RTC API",
@@ -49,7 +51,7 @@
     "time": 199,
     "timeDay": 229,
     "timeWeek": 206,
-    "timeMonth": 199,
+    "timeMonth": 196,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -67,7 +69,7 @@
     "time": 402,
     "timeDay": 487,
     "timeWeek": 427,
-    "timeMonth": 402,
+    "timeMonth": 405,
     "timeYear": 402,
     "dailyMinutesDown": {}
   }
