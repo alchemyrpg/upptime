@@ -6,10 +6,10 @@ sites:
      url: https://app.alchemyrpg.com
      icon: https://app.alchemyrpg.com/favicon-120.png
    - name: GraphQL API
-     url: https://api2.alchemyrpg.com/health
+     url: https://app.alchemyrpg.com/api/graphql/health
      icon: https://app.alchemyrpg.com/favicon-120.png
    - name: RTC API
-     url: https://journal2.alchemyrpg.com/health
+     url: https://app.alchemyrpg.com/api/journal/health
      icon: https://app.alchemyrpg.com/favicon-120.png
    - name: Marketing Site
      url: https://alchemyrpg.com
