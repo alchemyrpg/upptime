@@ -22,18 +22,20 @@
     "url": "https://app.alchemyrpg.com/api/graphql/health",
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 20,
-    "timeWeek": 103,
-    "timeMonth": 124,
-    "timeYear": 141,
-    "dailyMinutesDown": {}
+    "time": 143,
+    "timeDay": 244,
+    "timeWeek": 149,
+    "timeMonth": 135,
+    "timeYear": 143,
+    "dailyMinutesDown": {
+      "2023-02-20": 0
+    }
   },
   {
     "name": "RTC API",
