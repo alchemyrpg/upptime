@@ -22,19 +22,19 @@
     "url": "https://app.alchemyrpg.com/api/graphql/health",
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "graph-ql-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 73,
-    "timeWeek": 109,
-    "timeMonth": 120,
-    "timeYear": 140,
+    "time": 141,
+    "timeDay": 155,
+    "timeWeek": 133,
+    "timeMonth": 126,
+    "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-03-04": 0
+      "2023-03-04": 9
     }
   },
   {
