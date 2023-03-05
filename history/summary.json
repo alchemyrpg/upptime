@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 94,
-    "timeWeek": 112,
-    "timeMonth": 106,
+    "timeDay": 130,
+    "timeWeek": 120,
+    "timeMonth": 109,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "graph-ql-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 155,
-    "timeWeek": 133,
-    "timeMonth": 126,
-    "timeYear": 141,
-    "dailyMinutesDown": {
-      "2023-03-04": 9
-    }
+    "time": 142,
+    "timeDay": 237,
+    "timeWeek": 162,
+    "timeMonth": 133,
+    "timeYear": 142,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RTC API",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 17,
-    "timeWeek": 68,
-    "timeMonth": 102,
-    "timeYear": 137,
+    "time": 138,
+    "timeDay": 287,
+    "timeWeek": 107,
+    "timeMonth": 111,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 200,
-    "timeWeek": 247,
-    "timeMonth": 335,
-    "timeYear": 404,
+    "time": 403,
+    "timeDay": 292,
+    "timeWeek": 267,
+    "timeMonth": 340,
+    "timeYear": 403,
     "dailyMinutesDown": {}
   }
 ]
