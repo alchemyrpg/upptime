@@ -6,18 +6,16 @@
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 114,
-    "timeWeek": 86,
-    "timeMonth": 98,
+    "timeDay": 117,
+    "timeWeek": 97,
+    "timeMonth": 99,
     "timeYear": 232,
-    "dailyMinutesDown": {
-      "2023-03-27": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GraphQL API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 143,
-    "timeWeek": 76,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 140,
+    "timeDay": 46,
+    "timeWeek": 78,
+    "timeMonth": 138,
+    "timeYear": 140,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 77,
-    "timeWeek": 69,
-    "timeMonth": 114,
-    "timeYear": 136,
+    "time": 135,
+    "timeDay": 65,
+    "timeWeek": 76,
+    "timeMonth": 113,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 183,
+    "timeDay": 152,
     "timeWeek": 203,
-    "timeMonth": 250,
+    "timeMonth": 247,
     "timeYear": 396,
     "dailyMinutesDown": {}
   }
