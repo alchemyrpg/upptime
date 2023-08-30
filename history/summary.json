@@ -24,9 +24,9 @@
     "slug": "graph-ql-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
     "timeDay": 440,
@@ -34,7 +34,6 @@
     "timeMonth": 373,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2023-08-29": 8,
       "2023-07-02": 16,
       "2023-04-05": 19
     }
