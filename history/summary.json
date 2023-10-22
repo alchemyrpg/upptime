@@ -24,9 +24,9 @@
     "slug": "graph-ql-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 183,
     "timeDay": 169,
@@ -34,7 +34,6 @@
     "timeMonth": 125,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-10-22": 8,
       "2023-09-15": 20,
       "2023-07-02": 16,
       "2023-04-05": 19
@@ -45,9 +44,9 @@
     "url": "https://app.alchemyrpg.com/api/journal/health",
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "rtc-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +55,9 @@
     "timeWeek": 88,
     "timeMonth": 107,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-22": 0
+    }
   },
   {
     "name": "Marketing Site",
