@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 95,
-    "timeWeek": 82,
+    "timeDay": 104,
+    "timeWeek": 83,
     "timeMonth": 100,
-    "timeYear": 122,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 183,
-    "timeDay": 169,
-    "timeWeek": 139,
-    "timeMonth": 125,
+    "timeDay": 224,
+    "timeWeek": 147,
+    "timeMonth": 122,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2023-09-15": 20,
@@ -46,18 +46,16 @@
     "slug": "rtc-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 1394,
-    "timeWeek": 424,
+    "timeDay": 1512,
+    "timeWeek": 453,
     "timeMonth": 193,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2023-10-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marketing Site",
@@ -70,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 219,
-    "timeWeek": 285,
+    "time": 350,
+    "timeDay": 568,
+    "timeWeek": 335,
     "timeMonth": 310,
-    "timeYear": 342,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   }
 ]
