@@ -44,19 +44,19 @@
     "url": "https://app.alchemyrpg.com/api/journal/health",
     "icon": "https://app.alchemyrpg.com/favicon-120.png",
     "slug": "rtc-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 18,
-    "timeWeek": 88,
-    "timeMonth": 180,
+    "timeDay": 83,
+    "timeWeek": 95,
+    "timeMonth": 179,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-11-07": 0
+      "2023-11-07": 7
     }
   },
   {
