@@ -1,7 +1,7 @@
 url: https://app.alchemyrpg.com/api/graphql/health
-status: down
-code: 502
-responseTime: 265
-lastUpdated: 2023-12-17T20:00:25.034Z
+status: up
+code: 204
+responseTime: 54
+lastUpdated: 2023-12-17T20:18:27.789Z
 startTime: 2022-10-22T20:24:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
