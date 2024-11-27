@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 87,
-    "timeWeek": 126,
-    "timeMonth": 120,
+    "timeDay": 129,
+    "timeWeek": 136,
+    "timeMonth": 121,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 230,
-    "timeDay": 333,
+    "timeDay": 12,
     "timeWeek": 103,
-    "timeMonth": 141,
+    "timeMonth": 131,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2024-06-14": 21,
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 343,
-    "timeWeek": 70,
-    "timeMonth": 115,
+    "time": 109,
+    "timeDay": 16,
+    "timeWeek": 71,
+    "timeMonth": 90,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -64,17 +64,15 @@
     "slug": "marketing-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 1129,
-    "timeWeek": 531,
-    "timeMonth": 435,
+    "timeDay": 1036,
+    "timeWeek": 538,
+    "timeMonth": 426,
     "timeYear": 352,
-    "dailyMinutesDown": {
-      "2024-11-26": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
