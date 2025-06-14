@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 97,
-    "timeWeek": 131,
-    "timeMonth": 141,
+    "timeDay": 82,
+    "timeWeek": 128,
+    "timeMonth": 139,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 4796,
-    "timeWeek": 729,
-    "timeMonth": 253,
+    "timeDay": 13,
+    "timeWeek": 722,
+    "timeMonth": 251,
     "timeYear": 203,
-    "dailyMinutesDown": {
-      "2024-06-14": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RTC API",
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 190,
-    "timeWeek": 72,
-    "timeMonth": 99,
+    "time": 92,
+    "timeDay": 11,
+    "timeWeek": 65,
+    "timeMonth": 97,
     "timeYear": 90,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 342,
-    "timeDay": 464,
-    "timeWeek": 333,
-    "timeMonth": 333,
+    "timeDay": 149,
+    "timeWeek": 299,
+    "timeMonth": 330,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2025-05-24": 19,
