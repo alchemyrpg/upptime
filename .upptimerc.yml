@@ -14,6 +14,10 @@ sites:
    - name: Marketing Site
      url: https://alchemyrpg.com
      icon: https://app.alchemyrpg.com/favicon-120.png
+     expectedStatusCodes:
+       - 200
+       - 204
+       - 0
 
 status-website:
   cname: status.alchemyrpg.com
@@ -28,7 +32,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 assignees:
-  - ioveracker
+  - voidrender
  
 # https://crontab.guru 
 workflowSchedule:
